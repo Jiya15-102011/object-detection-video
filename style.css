@@ -1,0 +1,22 @@
+
+.h
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#y
+{
+font-size: 18px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    box-shadow: 10px 10px 10px greenyellow;
+    border-radius: 10px;
+}
+
